@@ -12,6 +12,18 @@
 		<array>
 			<dict>
 				<key>Comment</key>
+				<string>IONVMeFamily change 0x10 -&gt; 0x01 for LiteOn CX2 (c) Pike R. Alpha implemented by syscl</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Name</key>
+				<string>IONVMeFamily</string>
+				<key>Find</key>
+				<data>9sEQD4UcAQAA</data>
+				<key>Replace</key>
+				<data>9sEBD4UcAQAA</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#1</string>
 				<key>Disabled</key>
 				<false/>
